@@ -1,1 +1,35 @@
 vgugugtfdhdthdth
+
+1-	html5  semantic element
+
+2-	background url
+
+3- 	linear-gradient, background-cover, position, 
+	overlay, transform, translate, 
+
+4-	clip-path: polygon(0 0, 100% 0, 100% 80vh, 0 100%)
+
+5-	logo en header tekst center
+
+6-	animation
+
+7-	speudo element
+
+8-	button animation shadows
+
+9-	hoe website bouwen
+
+10-	de president: styling id class tag default
+
+11-	styling (president) bv 
+			a{ background-color: purple };
+			
+			#nav div.pull-right a.button:hover {
+			background-color: green							 // background wordt groen
+			} 
+			
+			#nav div.pull-right a.button {
+			background-color: red
+			}
+			
+12-	rem em vh, vw %
